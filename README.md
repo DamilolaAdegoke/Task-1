@@ -1,4 +1,4 @@
-#How to Make a Vendor Order on the Self Plan App
+## How to Make a Vendor Order on the Self Plan App
 
 This guide will walk you through how to make a vendor order on the platform. The process is seamless and even as a new user, this guide should help you complete your order without hassle.
 
